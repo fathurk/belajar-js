@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T09:22:56.452Z" agent="5.0 (Windows)" etag="-d2ko0iKz5oAuBhxuQSg" version="15.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-07T09:24:24.883Z" agent="5.0 (Windows)" etag="GQVnZdF1VkZNIveW5uS-" version="15.1.0" type="github">
   <diagram id="ZNS_TY3FEDY-yiDvgHgt" name="Page-1">
     <mxGraphModel dx="1747" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
             <mxPoint x="670" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uV7GmXahGbb01GjfUzwo-107" value="Projek" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="uV7GmXahGbb01GjfUzwo-107" value="Projek" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="-130" y="180" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="uV7GmXahGbb01GjfUzwo-108" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uV7GmXahGbb01GjfUzwo-107">
